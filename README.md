@@ -1,4 +1,7 @@
-## 💻 Software Engineer | ⚡ Golang & Microservices
+## 💻 Software Engineer | ⚡ Golang 
+
+![Innopolis University](https://img.shields.io/badge/Innopolis%20University-Student-00cc99?style=for-the-badge)
+
 
 <!--
 **olesia8novoselova/olesia8novoselova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
