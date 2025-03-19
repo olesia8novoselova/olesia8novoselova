@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Tech Stack  
-![Go](https://img.shields.io/badge/Go-ffb3ba?logo=go&logoColor=black)  ![Gin](https://img.shields.io/badge/Gin-ffdfba?logo=go&logoColor=black)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffffba?logo=postgresql&logoColor=black)  ![Redis](https://img.shields.io/badge/Redis-baffc9?logo=redis&logoColor=black)  ![Docker](https://img.shields.io/badge/Docker-b3ffff?logo=docker&logoColor=black)  ![CI/CD](https://img.shields.io/badge/CI/CD-babaff?logo=githubactions&logoColor=black)  ![VS Code](https://img.shields.io/badge/VS%20Code-dabaff?logo=visualstudiocode&logoColor=black)  ![Python](https://img.shields.io/badge/Python-ffc3e6?logo=python&logoColor=black)  
+![Go](https://img.shields.io/badge/Go-ffb3ba?logo=go&logoColor=black)  ![Gin](https://img.shields.io/badge/Gin-ffdfba?logo=go&logoColor=black)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffffba?logo=postgresql&logoColor=black)   ![Docker](https://img.shields.io/badge/Docker-b3ffff?logo=docker&logoColor=black)  ![CI/CD](https://img.shields.io/badge/CI/CD-babaff?logo=githubactions&logoColor=black)  ![VS Code](https://img.shields.io/badge/VS%20Code-dabaff?logo=visualstudiocode&logoColor=black)  ![Python](https://img.shields.io/badge/Python-ffc3e6?logo=python&logoColor=black)  
 
 ### Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Olesia%20Novoselova-ffb3ba?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/olesia-novoselova-6510b7346)  
