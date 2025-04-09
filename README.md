@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ### Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Olesia%20Novoselova-ffb3ba?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/olesia-novoselova-6510b7346)  
-[![Email](https://img.shields.io/badge/📧%20Email-dabaff?style=for-the-badge)](mailto:olessia.novoselova@mail.ru)
+
