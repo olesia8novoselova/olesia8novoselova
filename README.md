@@ -1,4 +1,4 @@
-## 💻 Software Developer | Full-stack
+## 💻 Software Developer
 
 ![Innopolis University](https://img.shields.io/badge/Innopolis%20University-Student-00cc99?style=for-the-badge)
 
