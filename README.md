@@ -7,5 +7,3 @@
 
 ![Next.js](https://img.shields.io/badge/Next.js-ffffba?logo=nextdotjs&logoColor=black) ![React](https://img.shields.io/badge/React-ffc3e6?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-dabaff?logo=typescript&logoColor=black)
 
-### Contacts
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Olesia%20Novoselova-ffb3ba?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/olesia-novoselova-6510b7346)  
